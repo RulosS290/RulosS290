@@ -3,8 +3,8 @@
 I'm a passionate software developer who enjoys working on both **backend** and **frontend** development. 🚀
 I love learning new technologies and collaborating on exciting projects.
 
-## 🌱 Currently Studying
-- Systems Engineering
+## 🎓 Education
+- Bachelor's Degree in Systems Engineering
 
 ## 🔭 Projects
 - General software development projects
