@@ -14,9 +14,10 @@ I love learning new technologies and collaborating on exciting projects.
 
 ## 🔧 Tech Stack
 
-- **Languages:** Java, JavaScript, Node.js
+- **Languages:** Java, Node.js, JavaScript, TypeScript
 - **Backend:** Spring Boot, Express
 - **Frontend:** React, Vue
+- **Styling (CSS Frameworks)**: Tailwind CSS
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Cloud & DevOps:** AWS, Docker
 
