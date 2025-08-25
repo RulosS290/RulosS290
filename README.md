@@ -9,7 +9,6 @@ I love learning new technologies and collaborating on exciting projects.
 ## 🔭 Projects
 - General software development projects
 - BlackJack
-- EasyRepair
 - POOBMOKU
 - [GuitarLA](https://guitarla-dst.netlify.app/)
 - [TipCalculator](https://tipcalculator-dst.netlify.app/)
