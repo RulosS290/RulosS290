@@ -11,9 +11,9 @@ I love learning new technologies and collaborating on exciting projects.
 - BlackJack
 - EasyRepair
 - POOBMOKU
-- <a href="https://guitarla-dst.netlify.app/" target="_blank">GuitarLA</a>
-- <a href="https://tipcalculator-dst.netlify.app/" target="_blank">TipCalculator</a>
-- <a href="https://calorie-tracker-dst.netlify.app/" target="_blank">CalorieTracker</a>
+- [GuitarLA](https://guitarla-dst.netlify.app/)
+- [TipCalculator](https://tipcalculator-dst.netlify.app/)
+- [CalorieTracker](https://calorie-tracker-dst.netlify.app/)
 
 
 ## 🔧 Tech Stack
