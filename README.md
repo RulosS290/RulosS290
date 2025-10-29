@@ -13,7 +13,7 @@ I love learning new technologies and collaborating on exciting projects.
 
 ## 🔧 Tech Stack
 
-- **Languages:** Java, JavaScript, TypeScript, C#
+- **Languages:** Java, JavaScript/TypeScript, C#
 - **Backend:** Spring Boot, Express
 - **Frontend:** React, Vue
 - **Styling (CSS Frameworks)**: Tailwind CSS
