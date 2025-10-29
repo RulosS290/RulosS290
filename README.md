@@ -7,13 +7,8 @@ I love learning new technologies and collaborating on exciting projects.
 - Bachelor's Degree in Systems Engineering
 
 ## 🔭 Projects
-- General software development projects
-- BlackJack
-- POOBMOKU
-- [GuitarLA](https://guitarla-dst.netlify.app/)
-- [TipCalculator](https://tipcalculator-dst.netlify.app/)
-- [CalorieTracker](https://calorie-tracker-dst.netlify.app/)
-- [Expense Control](https://expense-control-dst.netlify.app/)
+
+- [Project repository](https://github.com/RulosS290/DST-Projects)
 
 
 ## 🔧 Tech Stack
